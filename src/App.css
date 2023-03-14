@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  margin: 0;
+  margin-bottom: 5px;
+}
+.container {
+  margin: 20px auto;
+  text-align: center;
+}
+.textbox {
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.imagegallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+}
